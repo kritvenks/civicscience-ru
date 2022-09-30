@@ -4,6 +4,8 @@
 
 * [Vision and Values](README.md)
 * [Project Roadmap](laboratory-infrastructure-project/project-roadmap.md)
+* [Land Acknowledgement](laboratory-infrastructure-project/land-acknowledgement.md)
+* [Community Guidelines](laboratory-infrastructure-project/community-guidelines.md)
 
 ## Domains of Support
 
@@ -49,6 +51,7 @@
 * [Diversity, Equity, Inclusion](domains-of-support/diversity-equity-inclusion/README.md)
   * [Active Allyship](domains-of-support/diversity-equity-inclusion/active-allyship.md)
   * [Bystander and Upstander Behaviors](domains-of-support/diversity-equity-inclusion/bystander-and-upstander-behaviors.md)
+  * [Fostering Accessible Laboratory Environments](domains-of-support/diversity-equity-inclusion/fostering-accessible-laboratory-environments.md)
   * [Recognizing and Managing Biases](domains-of-support/diversity-equity-inclusion/recognizing-and-managing-biases.md)
 * [Citizenship](domains-of-support/citizenship/README.md)
   * [Cooperative/Equitable Task Distribution Model](domains-of-support/citizenship/cooperative-equitable-task-distribution-model.md)

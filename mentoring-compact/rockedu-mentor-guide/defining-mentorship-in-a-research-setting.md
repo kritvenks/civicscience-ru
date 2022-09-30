@@ -10,7 +10,7 @@ As our communities work toward creating a more inclusive scientific enterprise, 
 
 At its baseline, mentorship is a partnership between someone who is experienced in a given area, and someone who wishes to gain experience in said area. When we engage in mentorship, we are promoting the transfer of knowledge between individuals, and within organizations. The way in which we approach mentorship as a community sets the tone for institutional culture, and paves the way for sustaining and scaling the scientific enterprise. In deconstructing what it means to be an effective mentor, we can consider five essential elements, described below.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>A mentor is one who engages in creating, challenging, and sharing knowledge and skills with a mentee. Mentorship involves several facets: assessment and feedback, providing scientific and career guidance, supporting the whole person, technical training, and project management.</p></figcaption></figure>
 
 ### <mark style="color:purple;">Assessment and Feedback</mark>
 
@@ -30,4 +30,4 @@ Conducting science requires a skillset that is not easily acquired from a textbo
 
 ### <mark style="color:purple;">Project Management</mark>
 
-How do you achieve scientific goals with your mentee in the time you have together? This is where project management comes into play. Before starting any project, it is important to map out what you want to achieve, the steps you will take to get there, and consistent check-ins to assess how things are going. Our 2-4-6 Adaptive Action plan is a good way to think about project management in the context of your mentoring partnership.
+How do you achieve scientific goals with your mentee in the time you have together? This is where project management comes into play. Before starting any project, it is important to map out what you want to achieve, the steps you will take to get there, and consistent check-ins to assess how things are going. Our [2-4-6 Adaptive Action](../../domains-of-support/organization/adaptive-action-plan.md) plan is a good way to think about project management in the context of your mentoring partnership.

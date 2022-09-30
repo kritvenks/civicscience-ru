@@ -3,7 +3,6 @@ description: >-
   An outline/roadmap of the Civic Science Associate Project - a collaboration
   between RockEDU Science Outreach and the Rita Allen Foundation to build
   scaffolds as infrastructure for laboratories.
-layout: landing
 ---
 
 # Project Roadmap
