@@ -1,6 +1,8 @@
 # Community Guidelines
 
-In engaging with the materials provided to construct a custom infrastructure for/within your laboratory, we encourage you to develop and consider a set of community guidelines, which sets the tone for the culture of your work environment. We provide our community guidelines, which we recommend adapting or using as an example.&#x20;
+{% hint style="info" %}
+In engaging with the materials provided to construct a custom infrastructure for/within your laboratory, we encourage you to develop and consider a set of community values and norms, which sets the tone for the culture of your work environment. We provide our community norms and values, which we recommend adapting or using as an example.&#x20;
+{% endhint %}
 
 *   <mark style="color:purple;">**YOU BELONG HERE**</mark>&#x20;
 
