@@ -1,6 +1,5 @@
 ---
 description: From the RockEDU Mentoring Handbook Part 3
-layout: editorial
 ---
 
 # Adaptive Action Plan
