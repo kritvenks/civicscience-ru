@@ -6,6 +6,8 @@ Reading time: 4 minutes
 From [National Center for Principled Leadership & Research Ethics](https://ncpre.csl.illinois.edu/)'s Leadership Collection
 {% endembed %}
 
+Watching time: 5 minutes
+
 {% embed url="https://youtu.be/6wx8PlE_ms8" %}
 From [National Center for Principled Leadership & Research Ethics](https://ncpre.csl.illinois.edu/)'s Leadership Collection
 {% endembed %}

@@ -2,10 +2,11 @@
 
 ## Laboratory Infrastructure Project
 
-* [Vision and Values](README.md)
-* [Project Roadmap](laboratory-infrastructure-project/project-roadmap.md)
-* [Land Acknowledgement](laboratory-infrastructure-project/land-acknowledgement.md)
+* [Project Roadmap](README.md)
+* [Vision](laboratory-infrastructure-project/vision.md)
+* [Values](laboratory-infrastructure-project/values.md)
 * [Community Guidelines](laboratory-infrastructure-project/community-guidelines.md)
+* [Land Acknowledgement](laboratory-infrastructure-project/land-acknowledgement.md)
 
 ## Domains of Support
 

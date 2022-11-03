@@ -1,7 +1,16 @@
+---
+description: >-
+  Community guidelines help to set the tone for the culture of your work
+  environment and provide a framework for respectful interactions.
+coverY: 0
+---
+
 # Community Guidelines
 
-{% hint style="info" %}
-In engaging with the materials provided to construct a custom infrastructure for/within your laboratory, we encourage you to develop and consider a set of community values and norms, which sets the tone for the culture of your work environment. We provide our community norms and values, which we recommend adapting or using as an example.&#x20;
+{% hint style="success" %}
+In engaging with the materials provided to construct a custom infrastructure for/within your laboratory, we encourage you to develop and consider a set of community values and norms.&#x20;
+
+Below we provide our community norms and values, which we recommend adapting or using as an example.&#x20;
 {% endhint %}
 
 *   <mark style="color:purple;">**YOU BELONG HERE**</mark>&#x20;
@@ -30,4 +39,4 @@ In engaging with the materials provided to construct a custom infrastructure for
     This work is an ongoing journey to understand ourselves, the experiences of those around us, and our world.
 *   <mark style="color:purple;">**BE PRESENT AND PARTICIPATE FULLY**</mark>&#x20;
 
-    Set aside distraction, e.g., your phone.
+    Set aside distractions, e.g., your phone.
