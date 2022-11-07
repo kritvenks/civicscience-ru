@@ -66,6 +66,7 @@
   * [Psychological Safety Tools](domains-of-support/wellness/psychological-safety-tools.md)
   * [Stress Management, Mental Health, and Empathy](domains-of-support/wellness/stress-management-mental-health-and-empathy.md)
 * [Leadership Theory](domains-of-support/leadership-theory/README.md)
+  * [Leadership Manifesto](domains-of-support/leadership-theory/leadership-manifesto.md)
   * [Effective Leadership Principles](domains-of-support/leadership-theory/effective-leadership-principles.md)
   * [Support as a Dynamic and Evolving Concept](domains-of-support/leadership-theory/support-as-a-dynamic-and-evolving-concept.md)
 
