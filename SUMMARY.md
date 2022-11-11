@@ -81,6 +81,9 @@
   * [Defining Mentorship in a Research Setting](mentoring-compact/rockedu-mentor-guide/defining-mentorship-in-a-research-setting.md)
   * [Building Your Mentorship Strategy](mentoring-compact/rockedu-mentor-guide/building-your-mentorship-strategy.md)
   * [Building a Suitable Project](mentoring-compact/rockedu-mentor-guide/building-a-suitable-project.md)
+* [Being an Effective Mentee](mentoring-compact/being-an-effective-mentee.md)
+* [Sample Compacts](mentoring-compact/sample-compacts.md)
+* [Mentor-Mentee Agreement](mentoring-compact/mentor-mentee-agreement.md)
 
 ## \[test]
 
