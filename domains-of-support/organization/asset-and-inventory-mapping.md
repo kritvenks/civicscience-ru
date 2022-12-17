@@ -18,7 +18,13 @@ As you move through your time in the lab, there will be many occasions when you 
 
 ## <mark style="color:purple;">What does this actually look like? Give me a template.</mark>
 
-There are many ways to make a community asset map. Here is a Google Sheets template that contains all the instructions on this page in the first tab, and a template for individuals to add their asset mapping information in the second tab. Open this in a new tab and make a copy to your own Google Drive before editing.&#x20;
+There are many ways to make a community asset map. [Here is a Google Sheets template](https://docs.google.com/spreadsheets/d/13UdMdVveULO\_qpdtFrbFmCacFhDINNvbqhjOSPpQ5Sk/edit?usp=share\_link) that contains all the instructions on this page in the first tab, and a template for individuals to add their asset mapping information in the second tab. For a preview, see below.
+
+<mark style="color:purple;">****</mark>[<mark style="color:purple;">**Click this link**</mark>](https://docs.google.com/spreadsheets/d/13UdMdVveULO\_qpdtFrbFmCacFhDINNvbqhjOSPpQ5Sk/edit?usp=share\_link) <mark style="color:purple;">****</mark> to open the Google Sheet in a new tab.&#x20;
+
+<mark style="color:purple;">**IMPORTANT:**</mark>** Make a copy to your own Google Drive before editing.**&#x20;
+
+Preview of multi-tab template:
 
 {% embed url="https://docs.google.com/spreadsheets/d/13UdMdVveULO_qpdtFrbFmCacFhDINNvbqhjOSPpQ5Sk/edit#gid=2009993574" %}
 

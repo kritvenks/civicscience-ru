@@ -13,7 +13,7 @@
 
 * [Organization](domains-of-support/organization/README.md)
   * [Adaptive Action Plan](domains-of-support/organization/adaptive-action-plan.md)
-  * [Community Asset Map](domains-of-support/organization/community-asset-map.md)
+  * [Community Asset Map](domains-of-support/organization/asset-and-inventory-mapping.md)
   * [Creating Agendas for Efficient Meetings](domains-of-support/organization/creating-agendas-for-efficient-meetings.md)
   * [Data Management Framework](domains-of-support/organization/data-management-framework.md)
   * [Knowledge Access Structures](domains-of-support/organization/knowledge-access-structures.md)
